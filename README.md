@@ -1,0 +1,14 @@
+# qssi-user 11 RKQ1.220422.001 eng.xyz.20220602.204931 test-keys
+- manufacturer: 
+- platform: lito
+- codename: lito
+- flavor: qssi-user
+- release: 11
+- id: RKQ1.220422.001
+- incremental: eng.xyz.20220602.204931
+- tags: test-keys
+- fingerprint: qti/lito/lito:11/RKQ1.220422.001/xyz06022049:user/test-keys
+- is_ab: true
+- brand: qti
+- branch: qssi-user-11-RKQ1.220422.001-eng.xyz.20220602.204931-test-keys
+- repo: qti_lito_dump2812
